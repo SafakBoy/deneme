@@ -2,11 +2,29 @@
 
 ## Alt Bilgi
 
-- sadasdas
-- dsadassdaads
+| Ürünlerin numalaraları| Ürün açıklaması| Ürünlerin Fiyatı|
+| :-: | :-: | :-: |
+| 1 |açıklama | fiyatı |
+| 2 | açıklama | fiyatı |
+
+
+
+
+1. sadasdas
+2. dsadassdaads
+    1. sadasdsa
+    2. saddsadsa
+
+- asdfasdas
+- asddasdsadas
+    - asddasdsaasd
+    - sadasdasasd
+        - sadasdasdasd
+---------------------------------------------
 
 ![foto](https://fotolifeakademi.com/uploads/2020/04/sabit-odakli-objelerden-yararlanin.jpg)
 
+------------------------------
 ```python
 print("hello world")
 ```
