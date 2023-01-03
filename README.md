@@ -8,7 +8,7 @@
 | 2 | açıklama | fiyatı |
 
 
-
+> alıntı yap
 
 1. sadasdas
 2. dsadassdaads
